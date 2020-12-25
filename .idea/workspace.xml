@@ -31,7 +31,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608905975961</updated>
-      <workItem from="1608905976969" duration="2306000" />
+      <workItem from="1608905976969" duration="3125000" />
     </task>
     <servers />
   </component>
@@ -39,13 +39,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="284" key="SettingsEditor" timestamp="1608906385674">
+    <state x="372" y="284" key="SettingsEditor" timestamp="1608908616774">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="372" y="284" key="SettingsEditor/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1608906385674" />
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1608906056457">
+    <state x="372" y="284" key="SettingsEditor/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1608908616774" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1608908977038">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1608906056457" />
+    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1608908977038" />
   </component>
 </project>
